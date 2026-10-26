@@ -1,0 +1,10 @@
+Debug/
+Release/
+*.log
+*.d
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+.settings/language.settings.xml
